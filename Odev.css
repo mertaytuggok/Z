@@ -1,0 +1,44 @@
+.box1{
+    padding-top: 0;
+    padding-left: 5%;
+    width: 351px;
+    height: 113px;
+    margin: auto;
+    
+}
+
+.box2 {
+    padding-top: 0;
+    padding-left: 40%;
+    width: 90%;
+    height: 25%;
+    margin: auto;
+    background-color: #EEEEEE;
+   
+
+}
+
+.box3{
+    background-color:#7EE5DA;
+    width: 40%;
+    margin:0;
+    float: left;
+
+
+}
+
+.box4{
+    background-color: #70CCC2;
+    width: 20%;
+    float: left;
+    font-size: -1px;
+    
+}
+
+.box5{
+    background-color:#62B3AA;
+    width: 40%;
+    float: left;
+
+    /*aling  <td align="right" bgcolor="#62B3AA">;*/
+}
